@@ -1,2 +1,6 @@
-# dwm_linux
-dwm-6.2 patched
+# dwm-6.2-arch
+->alpha
+->attachaside
+->fancybar
+->fibonacci
+->uselessgap
